@@ -1,2 +1,4 @@
 #install dependencies using the below command in terminal
 npm install uuid reactstrap bootstrap react-icons
+
+for the code check the path Todo_using_localStorage
